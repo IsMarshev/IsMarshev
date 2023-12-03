@@ -17,8 +17,18 @@
 - 💻: NLP - мое любимое направление в Data Science
 
 - 📫: Мои контакты: <a href='https://t.me/ismarshev'>мой телеграмм</a>
-<h2>Мой стек:</h2>
-<h2>Мои достижения:</h2>
+<h2>🛠️ Мой стек:</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<h2>🥇 Мои достижения:</h2>
 <ul>
       <li>I место на хакатоне Цифровой прорыв сезон ИИ по ЦФО (кейс от ЦБ РФ)</li>
       <li>II место на хакатоне Битва ТITанов (кейс от АО «НИИАС»)</li>
@@ -26,7 +36,7 @@
       <li>Топ 10 на Международном хакатоне Цифровой прорыв (кейс от Бургер Кинг)</li>
       <li>Топ 10 в Yandex Cup</li>
 </ul>
-<h2>Проекты:</h2>
+<h2>🖥️ Проекты:</h2>
 <ul>
       <li><a href='https://github.com/IsMarshev/GameShop'>Магазин игр</a></li>
       <li><a href='https://github.com/IsMarshev/Case-CB-RF'>Попытка разработать сайт с предективной аналитикой</a></li>
