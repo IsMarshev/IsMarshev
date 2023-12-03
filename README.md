@@ -1,6 +1,6 @@
-<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Илья</a> 
+<h1 align='left'>Привет, я <a href="https://github.com/IsMarshev" target="_blank">Илья</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Стажер Data Scientist из России 🇷🇺</h3>
+<h3 align="center">Стажер Data Scientist из России</h3>
 
 <!--
 **IsMarshev/IsMarshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
