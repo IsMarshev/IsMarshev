@@ -3,6 +3,13 @@
 <h3 align="left">Молодой стажер - разработчик Data Scientist из России</h3>
 <h2>Мой стек:</h2>
 <h2>Мои достижения:</h2>
+<ul>
+      <li>I место на хакатоне Цифровой прорыв сезон ИИ по ЦФО (кейс от ЦБ РФ)</li>
+      <li>II место на хакатоне Битва ТITанов (кейс от АО «НИИАС»)</li>
+      <li>IV место на Всероссийском хакатоне Цифровой прорвыв (кейс от ЦБ РФ)</li>
+      <li>Участие на Международном хакатоне Цифровой прорыв (кейс от Бургер Кинг)</li>
+      <li>Участие в Yandex Cup</li>
+</ul>
 <h2>Проекты:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=IsMarshev">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsMarshev&layout=compact">
