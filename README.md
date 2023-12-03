@@ -1,6 +1,6 @@
-<h1 align='left'>Привет, я <a href="https://github.com/IsMarshev" target="_blank">Илья</a> 
+<h1 align='left'>Привет, я <a href="https://www.youtube.com/watch?v=X2lbdIelX_o&t=14s" target="_blank">Илья</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Молодой стажер - разработчик Data Scientist из России</h3><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h3 align="left">Молодой стажер - разработчик Data Scientist из России</h3><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="10"/>
 <h2>Мой стек:</h2>
 <h2>Мои достижения:</h2>
 <ul>
