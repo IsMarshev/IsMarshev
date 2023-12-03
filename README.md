@@ -4,7 +4,7 @@
 <h2>Мой стек:</h2>
 <h2>Мои достижения:</h2>
 <h2>Проекты:</h2>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsMarshev&layout=compact">
+<div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsMarshev&layout=compact"><img src="https://github-readme-stats.vercel.app/api?username=IsMarshev"></div>
 <!--
 **IsMarshev/IsMarshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
