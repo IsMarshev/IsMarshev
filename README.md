@@ -18,13 +18,13 @@
 
 - 📫: Мои контакты: <a href='https://t.me/ismarshev'>мой телеграмм</a>
 <h2>🛠️ Мой стек:</h2>
-- Tensorflow + pytorch
-- Transformers
-- Sklearn (classic ML)
-- Data analysis + business analytics
-- Web development 
-- Docker
-- OOP
+- : Tensorflow + pytorch
+- : Transformers
+- : Sklearn (classic ML)
+- : Data analysis + business analytics
+- : Web development 
+- : Docker
+- : OOP
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" **alt="PyTorch" width="40" height="40"/>
