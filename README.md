@@ -7,12 +7,15 @@
       <li>I место на хакатоне Цифровой прорыв сезон ИИ по ЦФО (кейс от ЦБ РФ)</li>
       <li>II место на хакатоне Битва ТITанов (кейс от АО «НИИАС»)</li>
       <li>IV место на Всероссийском хакатоне Цифровой прорвыв (кейс от ЦБ РФ)</li>
-      <li>Участие на Международном хакатоне Цифровой прорыв (кейс от Бургер Кинг)</li>
-      <li>Участие в Yandex Cup</li>
+      <li>Топ 10 на Международном хакатоне Цифровой прорыв (кейс от Бургер Кинг)</li>
+      <li>Топ 10 в Yandex Cup</li>
 </ul>
 <h2>Проекты:</h2>
 <ul>
-      <li>![Магазин игр](https://github.com/IsMarshev/GameShop)</li>
+      <li><a href='https://github.com/IsMarshev/GameShop'>Магазин игр</a></li>
+      <li><a href='https://github.com/IsMarshev/Case-CB-RF'>Попытка разработать сайт с предективной аналитикой</a></li>
+      <li><a href='https://github.com/IsMarshev/Case-RZD-Battle-of-Titans'>Борьба с грязными светофорами</a></li>
+      <li><a href='https://github.com/IsMarshev/Hackaton_command_MLC'>Техника теневого клонирования фичей</a></li>
 </ul>
 <img src="https://github-readme-stats.vercel.app/api?username=IsMarshev">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsMarshev&layout=compact">
