@@ -12,7 +12,7 @@
 </ul>
 <h2>Проекты:</h2>
 <ul>
-      <li>Магазин игр (https://github.com/IsMarshev/GameShop)</li>
+      <li>![Магазин игр](https://github.com/IsMarshev/GameShop)</li>
 </ul>
 <img src="https://github-readme-stats.vercel.app/api?username=IsMarshev">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsMarshev&layout=compact">
