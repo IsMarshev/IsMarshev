@@ -1,8 +1,10 @@
 <h1 align='left'>Привет, я <a href="https://github.com/IsMarshev" target="_blank">Илья</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Стажер Data Scientist из России</h3>
+<h3 align="left">Молодой стажер - разработчик Data Scientist из России</h3>
 <h2>Мой стек:</h2>
-
+<h2>Мои достижения:</h2>
+<h2>Проекты:</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **IsMarshev/IsMarshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
