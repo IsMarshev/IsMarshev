@@ -60,7 +60,7 @@
       <li><a href='https://github.com/IsMarshev/Case-RZD-Battle-of-Titans'>Борьба с грязными светофорами</a></li>
       <li><a href='https://github.com/IsMarshev/Hackaton_command_MLC'>Техника теневого клонирования фичей</a></li>
 </ul>
-<div><img src="https://github-readme-stats.vercel.app/api?username=IsMarshev" height='230'>
+<div align='center'><img src="https://github-readme-stats.vercel.app/api?username=IsMarshev" height='230'>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IsMarshev" height='230'></div>
 <!--
 **IsMarshev/IsMarshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
